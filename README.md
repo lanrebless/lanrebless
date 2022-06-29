@@ -1,8 +1,8 @@
  ### Hi 👋, I'm Lanre B.A 👋
 
-- 🔭 I’m currently working on HTML,CSS,Bootstrap,JavaScript,ReactJs and Material UI
+- 🔭 I’m currently working on HTML,CSS,Bootstrap,JavaScript,ReactJs,Nextjs,MongoDb and Material UI
 - 🌱 I’m currently learning NodeJs
-- 👯 I’m looking to collaborate on Youtube and Full Stack Developer
+- 👯 I’m looking to collaborate a Full Stack Developer
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Frontend Designer
 - 😄 Pronouns: ... YES
